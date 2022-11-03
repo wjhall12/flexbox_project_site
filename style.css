@@ -4,8 +4,8 @@
 
 * {
   box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+  padding: 20px;
+  margin: 80%;
 }
 
 body {
@@ -34,8 +34,7 @@ padding: 0 30px;
   background: #3474e6;
   color: white;
   height: 60px;
-  padding: 20px;
-  margin: 80%;
+
 }
 
 .navbar ul {
